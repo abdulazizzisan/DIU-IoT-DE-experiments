@@ -1,5 +1,11 @@
 # DIU CSE Electronics Lab - Tinkercad Resources
 
+## ⭐ Star This Repository
+
+If you find this repository helpful for your electronics lab experiments, please consider giving it a ⭐ star! Your support helps other students discover these resources and motivates us to add more experiments.
+
+[![GitHub stars](https://img.shields.io/github/stars/yourusername/diu-cse-electronics-tinkercad?style=social)](https://github.com/abdulazizzisan/DIU-IoT-DE-experiments)
+
 [![University](https://img.shields.io/badge/University-DIU-blue.svg)](https://daffodilvarsity.edu.bd/)
 [![Department](https://img.shields.io/badge/Department-CSE-green.svg)](https://daffodilvarsity.edu.bd/department/cse/program/bsc-in-cse)
 [![Platform](https://img.shields.io/badge/Platform-Tinkercad-red.svg)](https://www.tinkercad.com/)
